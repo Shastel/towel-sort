@@ -1,12 +1,23 @@
-# TASK NAME
-
-## History
+# Towel Sort
 
 ## Task
+Your task is to implement the so-called 'towel sort' algorithm.
 
-For example:
+`towelSort` function should expect matrix of any shape for example:
+
 ```js
+[
+ [ 1, 2, 3 ],
+ [ 4, 5, 6 ],
+ [ 7, 8, 9 ],
+]
 ```
+
+Following matrix should be 'sorted' to:
+```
+ [1, 2, 3, 6, 5, 4, 7, 8, 9 ]
+```
+
 
 Write your code in `src/index.js.
 *All test cases are designed as “error-free”, so don't worry about handling any errors.*
@@ -14,8 +25,8 @@ Write your code in `src/index.js.
 ## Prepare and test
 1. Install [Node.js](https://nodejs.org/en/download/)   
 2. Fork this repository: #
-3. Clone your newly created repo: https://github.com/<%your_github_username%>/#/  
-4. Go to folder `#`  
+3. Clone your newly created repo: https://github.com/<%your_github_username%>/towel-sort/  
+4. Go to folder `towel-sort`  
 5. To install all dependencies use [`npm install`](https://docs.npmjs.com/cli/install)  
 6. Run `npm test` in the command line  
 7. You will see the number of passing and failing tests you 100% of passing tests is equal to 100p in score  
@@ -23,7 +34,7 @@ Write your code in `src/index.js.
 ## Submit to [rs app](https://app.rs.school)
 1. Open [rs app](https://app.rs.school) and login
 2. Go to [submit task page](https://app.rs.school/course/submit-task?course=#)
-3. Select your task (#)
+3. Select your task (towel-sort)
 4. Press the submit button and enjoy
 
 ### Notes

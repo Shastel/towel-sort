@@ -32,8 +32,8 @@ Write your code in `src/index.js.
 7. You will see the number of passing and failing tests you 100% of passing tests is equal to 100p in score  
 
 ## Submit to [rs app](https://app.rs.school)
-1. Open [rs app](https://app.rs.school) and login
-2. Go to [submit task page](https://app.rs.school/course/student/auto-test?course=rs-2020-q1)
+1. Open [rs app](https://app.rs.school/epamlearningjs) and login
+2. Go to [submit task page](https://app.rs.school/epamlearningjs)
 3. Select your task (towel-sort)
 4. Press the submit button and enjoy
 
